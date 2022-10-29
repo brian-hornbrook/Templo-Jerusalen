@@ -1,0 +1,16 @@
+/*** TITLE ***/
+#title {
+    margin: 30px 10%;
+    color: #fff;
+}
+
+
+
+/*** PHOTOS ***/
+#photos {
+    margin: 10px 10%;
+}
+
+#photos img {
+    width: 100%;
+}
